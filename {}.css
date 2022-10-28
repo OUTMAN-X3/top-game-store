@@ -1,0 +1,75 @@
+*{
+  background:white;
+}
+#hr{
+  color:white;
+}
+#btn1{
+  background:green;
+  color:black;
+}
+#btn2{
+  color: black;
+  background: green;
+}
+#btn3{
+  background: green;
+  color: black;
+}
+#btn4{
+  background: green;
+  color: black;
+}
+#btn5{
+  color: black;
+  background: green;
+}
+#btn6{
+  color: black;
+  background: green;
+}
+#input{
+  color:green;
+  background:white;
+  width:250px;
+  height:30px;
+}
+#hr{
+  color:gray;
+  size:500px;
+}
+#img2{
+  height:200 ;
+  width:300 ;
+  border:5px black solid ;
+}
+#img3{
+  height:200 ;
+  width: 300;
+  border:5px black solid ;
+}
+#img4{
+  height: 200;
+  width: 300;
+  border:5px black solid ;
+}
+#img5{
+  height:200 ;
+  width:300 ;
+  border:5px black solid ;
+}
+#img6{
+  height:200 ;
+  width:300 ;
+  border:5px black solid ;
+}
+#img7{
+  height: 200;
+  width:300 ;
+  border:5px black solid ;
+}
+#img8{
+  height:200px;
+  width:300px;
+  border: 5px black solid ;
+}
